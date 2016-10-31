@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp"
+    android:paddingTop="4dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.humbleai.randomizer.SettingsActivity"
+    tools:showIn="@layout/activity_settings">
+
+
+
+    <android.support.v7.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        card_view:theme="@style/CardView"
+        card_view:cardUseCompatPadding="true"
+        card_view:cardElevation="1dp"
+        card_view:cardCornerRadius="2dp">
+        <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/editTextLayoutSettings"
+                android:text="@string/action_settings_layout"
+                style="@style/Base.TextAppearance.AppCompat.Title" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/editTextLayoutSettingsNotebooks"
+                android:text="@string/action_settings_notebooks"
+                android:layout_marginTop="16dp"
+                style="@style/Base.TextAppearance.AppCompat.Medium" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/action_settings_min_two_cols"
+                android:id="@+id/action_settings_min_two_notebooks"
+                android:layout_marginBottom="8dp"/>
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/action_settings_small_fonts"
+                android:id="@+id/action_settings_small_font_notebooks"
+                android:layout_marginBottom="8dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/editTextLayoutSettingsNotes"
+                android:text="@string/action_settings_notes"
+                android:layout_marginTop="16dp"
+                style="@style/Base.TextAppearance.AppCompat.Medium" />
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/action_settings_min_two_cols"
+                android:id="@+id/action_settings_min_two_notes"
+                android:layout_marginBottom="8dp"/>
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/action_settings_small_fonts"
+                android:id="@+id/action_settings_small_font_notes"
+                android:layout_marginBottom="8dp"/>
+        </LinearLayout>
+</ScrollView>
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>

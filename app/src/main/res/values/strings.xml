@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Humble Notes</string>
+    <string name="title_activity_new_set">New notebook</string>
+    <string name="title">Title</string>
+    <string name="ok">Okay, cool</string>
+    <string name="importing">Notes will be imported</string>
+    <string name="of">of</string>
+    <string name="import_file">Import text file</string>
+    <string name="imported">Notes imported</string>
+    <string name="description">Description</string>
+    <string name="untitled">Untitled</string>
+    <string name="edit">Edit</string>
+    <string name="newListFail">An error occurred. Please try again.</string>
+    <string name="title_activity_items">Notes</string>
+    <string name="item_title">Note text</string>
+    <string name="new_item">New note</string>
+    <string name="delete">Delete</string>
+    <string name="exclude">Fade</string>
+    <string name="include">Light up</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="share">Share</string>
+    <string name="pick_set">Select notebook</string>
+    <string name="title_activity_incoming">New Humble Note</string>
+    <string name="title_activity_incoming_notebook">New Notebook</string>
+
+
+    <string name="set_titles_1">Sample Notebook</string>
+
+
+    <string name="sets_descs_1">Sample notes inside. Tap here.</string>
+
+
+    <string name="sample_notes_titles_1">Sample humble note</string>
+    <string name="sample_notes_titles_2">This one is faded. You can light it up back.</string>
+        <string name="sample_notes_titles_3">
+            The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack.
+        </string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="action_settings_layout">Layout Settings</string>
+    <string name="action_settings_notebooks">Notebooks</string>
+    <string name="action_settings_notes">Notes</string>
+    <string name="action_settings_min_two_cols">Min. 2 columns</string>
+    <string name="action_settings_small_fonts">Small fonts</string>
+
+    <string name="backup">Export to text file</string>
+    <string name="backupfilename">BACKUP</string>
+    <string name="externalerror">An error occurred: External storage is not writable!</string>
+    <string name="backupok">Export complete!</string>
+    <string name="removeimage">Remove</string>
+    <string name="removed">Image removed and deleted from disk.</string>
+    <string name="selectimage">Select Image</string>
+</resources>

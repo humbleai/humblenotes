@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Humble Notes</string>
+    <string name="add">Ekle</string>
+    <string name="cancel">İptal</string>
+    <string name="delete">Sil</string>
+    <string name="description">Açıklama</string>
+    <string name="edit">Düzenle</string>
+    <string name="exclude">Söndür</string>
+    <string name="import_file">İçeri metin dosyayı aktar</string>
+    <string name="imported">Notlar aktarıldı</string>
+    <string name="importing">Notlar aktarılıyor</string>
+    <string name="include">Yak</string>
+    <string name="item_title">Not metni</string>
+    <string name="newListFail">Bir hata oluştu. Tekrar deneyin.</string>
+    <string name="new_item">Yeni not</string>
+    <string name="ok">Tamam, harika</string>
+    <string name="pick_set">Not defteri seçin</string>
+    <string name="share">Paylaş</string>
+    <string name="title">Başlık</string>
+    <string name="title_activity_incoming">Humble not</string>
+    <string name="title_activity_items">Notlar</string>
+    <string name="title_activity_new_set">Not defteri oluştur</string>
+    <string name="title_activity_incoming_notebook">Not defteri oluştur</string>
+    <string name="untitled">Başlıksız</string>
+    <string name="of"> / </string>
+
+
+        <string name="set_titles_1">Örnek Not Defteri</string>
+
+
+        <string name="sets_descs_1">İçeride birkaç örnek not var. Buraya dokunun.</string>
+
+
+        <string name="sample_notes_titles_1">Örnek humble not.</string>
+        <string name="sample_notes_titles_2">Bu not sönükleştirilmiş. İsterseniz yeniden yakabilirsiniz.</string>
+        <string name="sample_notes_titles_3">
+            Sizin damda var beş boz başlı beş boz ördek, bizim damda var beş boz başlı beş boz ördek. Sizin damdaki beş boz başlı beş boz ördek; bizim damdaki  beş boz başlı beş boz ördeğe: “Siz de bizim gibi beş boz başlı beş boz  ördeksiniz.” demiş.
+        </string>
+
+    <string name="action_settings">Ayarlar</string>
+
+    <string name="action_settings_layout">Görünüm Ayarları</string>
+    <string name="action_settings_notebooks">Not Defterleri</string>
+    <string name="action_settings_notes">Notlar</string>
+    <string name="action_settings_min_two_cols">En az 2 sütun</string>
+    <string name="action_settings_small_fonts">Küçük yazı tipleri</string>
+    <string name="backup">Metin dosyasına aktar</string>
+    <string name="backupfilename">YEDEK</string>
+    <string name="externalerror">Hata: Harici disk yazılabilir değil!</string>
+    <string name="backupok">Aktarım tamamlandı!</string>
+    <string name="removeimage">Kaldır</string>
+    <string name="removed">Resim kaldırıldı ve diskten silindi.</string>
+    <string name="selectimage">Resim Seçin</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="sets_icons">
+        <item>@drawable/ik_s_48</item>
+    </integer-array>
+
+    <string-array translatable="false" name="sets_set_types">
+        <item>user</item>
+    </string-array>
+    <string-array translatable="false" name="sets_primaries">
+        <item>Color</item>
+    </string-array>
+
+
+
+
+    <integer-array name="sample_notes_icons">
+        <item>@color/color_card_bg</item>
+        <item>@color/color_card_bg</item>
+        <item>@color/color_PeachPuff</item>
+    </integer-array>
+
+    <string-array name="sets_titles">
+        <item>@string/set_titles_1</item>
+    </string-array>
+    <string-array name="sets_descs">
+        <item>@string/sets_descs_1</item>
+    </string-array>
+    <string-array name="sample_notes_titles">
+        <item>@string/sample_notes_titles_1</item>
+        <item>@string/sample_notes_titles_2</item>
+        <item>@string/sample_notes_titles_3</item>
+    </string-array>
+
+    <integer-array name="sample_notes_dim">
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
+
+</resources>

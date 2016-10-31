@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FFFF4081</color>
+    <color name="colorMainBg">#F3F3F3</color>
+    <color name="colorDescription">#AAAAAA</color>
+    <color name="colorAppCaption">#007CAC</color>
+    <color name="color_card_bg">#FAFAFA</color>
+
+    <color name="color_NoteText">#708090</color>
+
+    <color name="color_AliceBlue">#F0F8FF</color>
+    <color name="color_AntiqueWhite">#FAEBD7</color>
+    <color name="color_Gainsboro">#DCDCDC</color>
+    <color name="color_GhostWhite">#F8F8FF</color>
+    <color name="color_GreenYellow">#ADFF2F</color>
+    <color name="color_HoneyDew">#F0FFF0</color>
+    <color name="color_Khaki">#F0E68C</color>
+    <color name="color_Lavender">#E6E6FA</color>
+    <color name="color_LemonChiffon">#FFFACD</color>
+    <color name="color_LightBlue">#ADD8E6</color>
+    <color name="color_LightGray">#D3D3D3</color>
+    <color name="color_LightGreen">#90EE90</color>
+    <color name="color_LightPink">#FFB6C1</color>
+    <color name="color_LightSalmon">#FFA07A</color>
+    <color name="color_LightSkyBlue">#87CEFA</color>
+    <color name="color_LightSteelBlue">#B0C4DE</color>
+    <color name="color_MistyRose">#FFE4E1</color>
+    <color name="color_Moccasin">#FFE4B5</color>
+    <color name="color_NavajoWhite">#FFDEAD</color>
+    <color name="color_PaleGoldenRod">#EEE8AA</color>
+    <color name="color_PaleGreen">#98FB98</color>
+    <color name="color_PaleTurquoise">#AFEEEE</color>
+    <color name="color_PeachPuff">#FFDAB9</color>
+    <color name="color_Pink">#FFC0CB</color>
+    <color name="color_Plum">#DDA0DD</color>
+    <color name="color_PowderBlue">#B0E0E6</color>
+    <color name="color_Salmon">#FA8072</color>
+    <color name="color_SandyBrown">#F4A460</color>
+    <color name="color_SeaShell">#FFF5EE</color>
+    <color name="color_Silver">#C0C0C0</color>
+    <color name="color_SkyBlue">#87CEEB</color>
+    <color name="color_Tan">#D2B48C</color>
+    <color name="color_Thistle">#D8BFD8</color>
+    <color name="color_Violet">#EE82EE</color>
+    <color name="color_Wheat">#F5DEB3</color>
+    <color name="color_Yellow">#faf06e</color>
+
+    <integer-array name="colors_icons">
+        <item>@color/color_AliceBlue</item>
+        <item>@color/color_AntiqueWhite</item>
+        <item>@color/color_Gainsboro</item>
+        <item>@color/color_GhostWhite</item>
+        <item>@color/color_GreenYellow</item>
+        <item>@color/color_HoneyDew</item>
+        <item>@color/color_Khaki</item>
+        <item>@color/color_Lavender</item>
+        <item>@color/color_LemonChiffon</item>
+        <item>@color/color_LightBlue</item>
+        <item>@color/color_LightGray</item>
+        <item>@color/color_LightGreen</item>
+        <item>@color/color_LightPink</item>
+        <item>@color/color_LightSalmon</item>
+        <item>@color/color_LightSkyBlue</item>
+        <item>@color/color_LightSteelBlue</item>
+        <item>@color/color_MistyRose</item>
+        <item>@color/color_Moccasin</item>
+        <item>@color/color_NavajoWhite</item>
+        <item>@color/color_PaleGoldenRod</item>
+        <item>@color/color_PaleGreen</item>
+        <item>@color/color_PaleTurquoise</item>
+        <item>@color/color_PeachPuff</item>
+        <item>@color/color_Pink</item>
+        <item>@color/color_Plum</item>
+        <item>@color/color_PowderBlue</item>
+        <item>@color/color_Salmon</item>
+        <item>@color/color_SandyBrown</item>
+        <item>@color/color_SeaShell</item>
+        <item>@color/color_Silver</item>
+        <item>@color/color_SkyBlue</item>
+        <item>@color/color_Tan</item>
+        <item>@color/color_Thistle</item>
+        <item>@color/color_Violet</item>
+        <item>@color/color_Wheat</item>
+        <item>@color/color_Yellow</item>
+        <item>@color/color_card_bg</item>
+    </integer-array>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
